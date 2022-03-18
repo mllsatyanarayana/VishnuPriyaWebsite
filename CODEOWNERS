@@ -1,3 +1,9 @@
 
 # Default code Owner
-@mllsatyanarayana
+* @mllsatyanarayana
+
+# Reviewer by email for html,css and js files
+
+*.html mllsatyanarayana@gmail.com
+*.js  mllsatyanarayana@gmail.com
+*.css mllsatyanarayana@gmail.com
