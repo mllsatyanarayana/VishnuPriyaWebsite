@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'vishuPriyaweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DCBD9528248414FB80DD26FB6F31C05 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A864085C8D346CBB97FA93A326E4E12 }}
           package: .
